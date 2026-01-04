@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-11-12T10:14:08.462268",
+    "consultation_number": 1,
+    "initial_complaint": "I'm coughing and my nose is runny",
+    "final_response": "I understand that you're dealing with a cough and runny nose that have gotten worse over the past two days, making it difficult for you to sleep at night. It's good to note that there are no other concerning symptoms present.\n\nSince the situation is not alarming and your symptoms are mild, I recommend the following three-step treatment plan to help you feel better:\n\n1. Stay hydrated by drinking plenty of fluids, like water, herbal teas, or broths. This can really help.\n2. Use a humidifier in your bedroom. This can ease your coughing and improve your sleep quality.\n3. You might consider over-the-counter medications, such as antihistamines or cough suppressants, to help relieve your symptoms.\n\nIf you don\u2019t see improvement in three days, please reach out to your doctor. I can provide guidance, but I cannot replace an in-person examination. How does this sound to you?",
+    "severity": 4,
+    "handoff_status": "COMPLETE"
+  },
+  {
+    "timestamp": "2025-11-12T10:19:47.402365",
+    "consultation_number": 2,
+    "initial_complaint": "My chest is tight and I have trouble breathing",
+    "final_response": "I understand that you're experiencing tightness in your chest and difficulty breathing, and those symptoms can be quite concerning. It's important to address this right away because it's beyond what I can safely assess remotely. Let's work through this together: I recommend that you call 911 or go to the nearest emergency room immediately for further evaluation. How does this sound to you?",
+    "severity": null,
+    "handoff_status": "EMERGENCY"
+  }
+]
